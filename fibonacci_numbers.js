@@ -10,3 +10,4 @@ for (n = 0; n <=25; n++){
     }
 }
 console.log("The 23rd number in the fibonacci sequence is: " + fofn[23]);
+//
